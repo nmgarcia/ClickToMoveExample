@@ -1,2 +1,2 @@
 # ClickToMoveExample
- Simple Click to Move game
+ Simple Click to Move game example
